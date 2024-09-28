@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Agnaistic Guides
-email: lt455067@gmail.com
+title: Charluv Guides
+email: rondlite@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A set of guides, how-tos, and resources for working with https://agnai.chat
+  A set of guides, how-tos, and resources for working with https://charluv.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://agnai.guide" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: lt455067
+url: "https://guide.charluv.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: rondlite
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
