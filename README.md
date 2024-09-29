@@ -1,6 +1,6 @@
 # agnai-guides
 
-GitHub Pages Repo for Charluvi guides
+GitHub Pages Repo for Charluv guides
 
 Missing Pages:
 
