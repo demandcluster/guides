@@ -1,4 +1,4 @@
-# agnai-guides
+# charluv-guides
 
 GitHub Pages Repo for Charluv guides
 

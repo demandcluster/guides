@@ -8,11 +8,11 @@ nav_order: 4
 
 In a chat, if you go to the "⚙️" in the top right corner, you can see the settings fly-out.
 
-![agnai-chat-settings-flyout.png](..%2F..%2Fassets%2Fimages%2Fagnai-chat-settings-flyout.png)
+![charluv-chat-settings-flyout.png](..%2F..%2Fassets%2Fimages%2Fcharluv-chat-settings-flyout.png)
 
 Clicking on "Preset" will bring you to the chat settings window:
 
-![agnai-preset-settings.png](..%2F..%2Fassets%2Fimages%2Fagnai-preset-settings.png)
+![charluv-preset-settings.png](..%2F..%2Fassets%2Fimages%2Fcharluv-preset-settings.png)
 
 ## Preset Creation and Selection
 
@@ -47,7 +47,7 @@ The rest of the preset is divided among a number of tabs.
 
 The general settings vary slightly based on which AI service you're using. For this guide, we will focus on the Charluv settings. If you want an explanation of other settings, reach out on [Discord](https://charluv.com/discord).
 
-![agnai-preset-general-tab.png](..%2F..%2Fassets%2Fimages%2Fagnai-preset-general-tab.png)
+![charluv-preset-general-tab.png](..%2F..%2Fassets%2Fimages%2Fcharluv-preset-general-tab.png)
 
 ### General settings
 

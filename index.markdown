@@ -9,7 +9,7 @@ layout: home
 
 # Welcome to the Charluv Documentation Site.
 
-Charluv, is both an open-source project (based on the Agnai project) and a website. Put simply, Charluv lets you create chat bots using LLMs (see "**[What is a LLM?](/docs/what-is-an-llm)**").
+Charluv, is both an open-source project (based on the Charluv project) and a website. Put simply, Charluv lets you create chat bots using LLMs (see "**[What is a LLM?](/docs/what-is-an-llm)**").
 
 Our hope is that this documentation site and the supporting videos turn the learning curve into an exciting journey as you craft intelligent, interactive bots. These docs are here as a resource to the community and will be improved over time in an effort to provide smooth navigation of Charluv nuances for compelling bot interactions.
 

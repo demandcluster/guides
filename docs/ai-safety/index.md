@@ -4,7 +4,7 @@ layout: default
 ---
 
 We are all AI enthusiasts here, we know the AI can be used in all kinds of exciting ways.
-AGNai provides an unfiltered experience; we want you to be aware of the risks when using our software.
+Charluv provides an unfiltered experience; we want you to be aware of the risks when using our software.
 
 **The AI tries to give answers it thinks you are going to believe, not always answers that are true.**
 
@@ -36,7 +36,7 @@ AGNai provides an unfiltered experience; we want you to be aware of the risks wh
 - It is also wise to keep in mind that your favorite AI model may not always be available unless you can run it locally on your own system, services can go down, hosted models may not always be hosted, etc.
   - You may ruin your experience in the long run when you get used to bigger models that get taken away from you
 
-**The goal of AGNai is to give you an AI you can own and keep, so this point mostly applies to other online services but to some extent can apply to models you can not easily run yourself.**
+**The goal of Charluv is to give you an AI you can own and keep, so this point mostly applies to other online services but to some extent can apply to models you can not easily run yourself.**
 
 - It can be very exciting to jump on the latest trend in AI tech, think of GPT4, CharacterAI and others with big expensive and very coherent models.
 - When you do so you can get used to the quality difference to the point that the smaller models are no longer interesting to you. This can ruin your experience with the hobby until something similar is available again.
