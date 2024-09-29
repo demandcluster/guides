@@ -15,7 +15,7 @@ Our hope is that this documentation site and the supporting videos turn the lear
 
 Beyond just talking to chat bots, Charluv provides an engaging **[Discord server](https://charluv.com/discord)** with a vibrant and colorful community. Come meet friends, get support, and hang out with us!
 
-Interested in the code? Check out the **[GitHub repo](https://github.com/demandcluster.com/charluv)** and read through the "**[Source Code Intro](/docs/source-code-intro)**"
+Interested in the code? Check out the **[GitHub repo](https://github.com/demandcluster/charluv)** and read through the "**[Source Code Intro](/docs/source-code-intro)**"
 
 ## Next steps:
 
