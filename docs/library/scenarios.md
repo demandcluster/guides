@@ -5,9 +5,10 @@ nav_order: 5
 has_parent: true
 parent: "Library"
 ---
+
 # Scenarios
 
-There are two kinds of things people think about when it comes to the word "scenarios" in Agnai. One is the "scenario" section in the character card, and one is the "scenario" tab inside of the Library tab in the left-hand menu. This article is about the latter, go to the Character Card section for information about the former. To make use of a scenario you created, simply select it from the dropdown when creating a new chat.
+There are two kinds of things people think about when it comes to the word "scenarios" in Charluvi. One is the "scenario" section in the character card, and one is the "scenario" tab inside of the Library tab in the left-hand menu. This article is about the latter, go to the Character Card section for information about the former. To make use of a scenario you created, simply select it from the dropdown when creating a new chat.
 
 The first thing you will notice on the Scenario page is, apart from the title and description, the "prompt text" field. This option lets you either override the scenario in your character card (if you select the appropriate toggle) or add to it, making it easy to pick the scenario text you want for this particular chat without needing to change the character card.
 You can also leave additional instructions in the "user instructions" field. These will appear at the start of the chat.
@@ -24,7 +25,7 @@ Firstly, you need to pick a **trigger**, which is how your event will start. The
 
 **Message Received** - the event will trigger once you send a message. This will result in double replies in a normal one-on-one character chat.
 
-Except for the Greeting trigger, you can also use **event flags**. They are essentially conditions which need to be met in order for the event to be available to activate. 
+Except for the Greeting trigger, you can also use **event flags**. They are essentially conditions which need to be met in order for the event to be available to activate.
 
 Note: Event flags are not words that are checked for by the AI. It's simply a condition for the events, like a programming variable, which is only relevant inside the events menu. There is currently no way to affect events with what is typed in the actual chat.
 
@@ -44,4 +45,3 @@ You also need to select the **type** and **prompt** of your event. The prompt is
 **Out Of Character** - only visible by you. Essentially a tooltip.
 
 That concludes the overview of the functionalities of scenarios. Hopefully this page helped you.
-

@@ -24,7 +24,7 @@ Start by giving the preset a name at the top under "Preset Name".
 
 ## AI Service Selection
 
-Charluv is designed to work with several different AI services. If you have a service configured in your [global AI settings](https://agnai.chat/settings) then it will be available for selection in this dropdown.
+Charluv is designed to work with several different AI services. If you have a service configured in your [global AI settings](https://charluv.com/settings) then it will be available for selection in this dropdown.
 
 By default, only Charluv, Horde, and third-party / textgen options are available.
 
@@ -45,7 +45,7 @@ The rest of the preset is divided among a number of tabs.
 
 ## General Tab
 
-The general settings vary slightly based on which AI service you're using. For this guide, we will focus on the Charluv settings. If you want an explanation of other settings, reach out on [Discord](https://agnai.chat/discord).
+The general settings vary slightly based on which AI service you're using. For this guide, we will focus on the Charluv settings. If you want an explanation of other settings, reach out on [Discord](https://charluv.com/discord).
 
 ![agnai-preset-general-tab.png](..%2F..%2Fassets%2Fimages%2Fagnai-preset-general-tab.png)
 

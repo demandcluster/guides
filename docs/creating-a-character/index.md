@@ -6,7 +6,7 @@ nav_order: 3
 
 # Creating a character
 
-Creating your first might seem daunting, but worry not - this is a guide accessible for complete beginners, and will cover all parts of the character creation process on Agnai, and every field in the character card. After going through it, you should have a basic idea of how character creation works, and learn enough about the process to feel comfortable enough to start.
+Creating your first might seem daunting, but worry not - this is a guide accessible for complete beginners, and will cover all parts of the character creation process on Charluvi, and every field in the character card. After going through it, you should have a basic idea of how character creation works, and learn enough about the process to feel comfortable enough to start.
 
 All fields are optional. There isn't any "magic" going behind the scenes to make the character work, it's just a single prompt sent to the AI with all the details of the character, with the instruction to write the next reply in a chat as this character (think of all language models as assistants similar to ChatGPT under the hood), so keep in mind that you can customize your character card to your liking, and use whichever fields you prefer. For starters, you can just create a character with only the "name" and "personality" fields filled out (just provide a short description of the character in the "personality" field in plain text, no special format needed), and that should work just fine. For additional information about what each of the fields is used for and some helpful insights related to character creation, you can check this page.
 
@@ -46,7 +46,7 @@ Sample conversations, like greetings, take a different approach than personality
 
 You should generally not mess with Advanced settings if you're just getting started. However, several of them can be very useful to know how to use once you get the hang of it.
 
-**System Prompt**: It's like an initial message which is read as if coming from the system, so it serves as an instruction setter for the chat. By default, Agnai does send a short setup message to the AI so that it registers that the task it is supposed to perform is to reply for the character in a roleplay chat (you can modify it in a prompt template if you wish for different behavior). System prompt follows the same principle. Think of it like an instruction manual for your chat, used to tell the AI what to follow. Not to be confused with the prompt template.
+**System Prompt**: It's like an initial message which is read as if coming from the system, so it serves as an instruction setter for the chat. By default, Charluvi does send a short setup message to the AI so that it registers that the task it is supposed to perform is to reply for the character in a roleplay chat (you can modify it in a prompt template if you wish for different behavior). System prompt follows the same principle. Think of it like an instruction manual for your chat, used to tell the AI what to follow. Not to be confused with the prompt template.
 
 **Post-conversation History Instructions (jailbreak/UJB)**: Large language models pay the most attention to the ending of the conversation, that is just how they work. If you want particularly strong instructions which the AI will adhere to in every reply, you can use the jailbreak. It's an effective way to make the model listen more, since it will be inserted at the bottom of the prompt sent to the AI. It's named a "jailbreak" because it has originally been used to bypass censorship on proprietary models, but you can also use it on uncensored models, since it's generally for the purposes of instructing a model to behave a certain way.
 
@@ -64,7 +64,7 @@ You should generally not mess with Advanced settings if you're just getting star
 
 Here, you can set the settings for images for this character specifically. If you want global image settings, you should go to Settings -> Images. You can find the general instructions to setup both here, since they work similarly.
 
-Firstly, choose a service. If you have a 10 dollar Agnai sub, the Charluv image generation is available, with DreamshaperXL Lightning model. If you use that model, use the recommended settings (5 steps, 2 CFG, 1024x1024 image size). You can also use NovelAI if you have a sub. If you are on free tier, then you can use Horde (somewhat slow and unreliable, but free) and Stable Diffusion (need to run it on your own machine in the background with appropriate hardware and connect it to Agnai. On Automatic1111, you can use --api --share arguments to generate a link, and paste it to Agnai)
+Firstly, choose a service. If you have a 10 dollar Charluvi sub, the Charluv image generation is available, with DreamshaperXL Lightning model. If you use that model, use the recommended settings (5 steps, 2 CFG, 1024x1024 image size). You can also use NovelAI if you have a sub. If you are on free tier, then you can use Horde (somewhat slow and unreliable, but free) and Stable Diffusion (need to run it on your own machine in the background with appropriate hardware and connect it to Charluvi. On Automatic1111, you can use --api --share arguments to generate a link, and paste it to Charluvi)
 
 Now let's move onto the specific parameters you can configure.
 
