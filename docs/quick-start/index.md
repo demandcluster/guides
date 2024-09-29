@@ -13,14 +13,14 @@ Done with the video? Skip ahead to [some more things to try](#some-next-things-t
 
 ## Step-by-Step
 
-1. Load up the Charluvi interface
+1. Load up the Charluv interface
    - go to the website https://charluv.com
    - Optionally, login / create an account (if you want your chats to persist across devices or you want to sign up for higher context / more powerful LLMs)
 1. Have your first chat with a Robot
    - Talk to the robot by clicking on the "Robot" chat right on the homepage
    - Use the "Send a message" box at the bottom of the screen to chat, just like with any messaging platform
    - Wait a few moments for the robot to respond
-   - By default, your chats will use the Charluvi model. See "**[Configuring your AI service](/docs/configuring-ai-service)**" for information on choosing and configuring the various AI services.
+   - By default, your chats will use the Charluv model. See "**[Configuring your AI service](/docs/configuring-ai-service)**" for information on choosing and configuring the various AI services.
    - For more advanced information about chatting, controls, and settings, see "**[Chat Settings](/docs/chat-settings)**".
 1. Create your own character
    - Click the "+" by "Character" for quick access to character creation

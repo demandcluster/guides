@@ -7,7 +7,7 @@ has_children: true
 
 # Memory
 
-Memory in Charluvi chat bots is made possible via both manual keyword-triggered entries in memory books, as well as dynamic Chat Embeds and User Embeds.
+Memory in Charluv chat bots is made possible via both manual keyword-triggered entries in memory books, as well as dynamic Chat Embeds and User Embeds.
 
 For more information on Memory Books, [see here](/docs/memory/memory-books).
 

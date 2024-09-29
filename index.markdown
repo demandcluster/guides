@@ -13,13 +13,13 @@ Charluv, is both an open-source project (based on the Agnai project) and a websi
 
 Our hope is that this documentation site and the supporting videos turn the learning curve into an exciting journey as you craft intelligent, interactive bots. These docs are here as a resource to the community and will be improved over time in an effort to provide smooth navigation of Charluv nuances for compelling bot interactions.
 
-Beyond just talking to chat bots, Charluvi provides an engaging **[Discord server](https://charluv.com/discord)** with a vibrant and colorful community. Come meet friends, get support, and hang out with us!
+Beyond just talking to chat bots, Charluv provides an engaging **[Discord server](https://charluv.com/discord)** with a vibrant and colorful community. Come meet friends, get support, and hang out with us!
 
 Interested in the code? Check out the **[GitHub repo](https://github.com/demandcluster.com/charluv)** and read through the "**[Source Code Intro](/docs/source-code-intro)**"
 
 ## Next steps:
 
-- **[Quick Start](/docs/quick-start)** -- Best for the user who is setting up their first character or wants a quick introduction to the basics of Charluvi. A 15-minute video tutorial covering the basic process of setting up a character on Charluvi and chatting.
+- **[Quick Start](/docs/quick-start)** -- Best for the user who is setting up their first character or wants a quick introduction to the basics of Charluv. A 15-minute video tutorial covering the basic process of setting up a character on Charluv and chatting.
 - **[Create a Character](/docs/creating-a-character)** -- Learn more about character creation
 - **[Chat Settings](/docs/chat-settings)** -- Configure your chat and get your character talking just right
 - **[Memory](/docs/memory)** -- Learn more about how memory works in Charluv

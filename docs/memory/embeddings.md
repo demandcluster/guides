@@ -8,7 +8,7 @@ parent: "Memory"
 
 # User Embeds and Chat Embeds
 
-> Note: this is only a brief overview of how to use chat embeds and user embeds in Charluvi. For a more in-depth overview of how embeddings work with LLMs in general, check out https://pub.aimind.so/llm-embeddings-explained-simply-f7536d3d0e4b?gi=537c9fd225d8
+> Note: this is only a brief overview of how to use chat embeds and user embeds in Charluv. For a more in-depth overview of how embeddings work with LLMs in general, check out https://pub.aimind.so/llm-embeddings-explained-simply-f7536d3d0e4b?gi=537c9fd225d8
 
 User embeds and chat embeds are both a form of retrieval augmented generation (RAG) and form a sort of "dynamic memory". Similar to the memory books, User Embeds and Chat Embeds will use keywords and context from the chat history to include relevant pieces of information.
 
