@@ -9,7 +9,7 @@ layout: home
 
 # Welcome to the Charluv Documentation Site.
 
-Charluv, is both an open-source project (based on the Agnai project) and a website. Put simply, Charluv lets you create chat bots using LLMs (see "**[What is a LLM?](/docs/what-is-an-llm)**"). While Charluvi does offer both free and paid LLMs, some users prefer to host their own (see "**[Configuring your AI service](/docs/configuring-ai-services)**". Some users prefer Kobold Horde while others use OpenAI, OpenRouter, Replicate, NovelAI, or even their own hardware (see "**[Self-hosting an LLM](/docs/self-hosting-an-llm)**". Being both an open-source project and supporting multiple language models from various locations helps ensure your Charluvi chat bots will stick around and work the way you want them to work -- not the way someone tells you they should work.
+Charluv, is both an open-source project (based on the Agnai project) and a website. Put simply, Charluv lets you create chat bots using LLMs (see "**[What is a LLM?](/docs/what-is-an-llm)**").
 
 Our hope is that this documentation site and the supporting videos turn the learning curve into an exciting journey as you craft intelligent, interactive bots. These docs are here as a resource to the community and will be improved over time in an effort to provide smooth navigation of Charluv nuances for compelling bot interactions.
 
