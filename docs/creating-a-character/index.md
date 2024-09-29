@@ -3,6 +3,7 @@ title: "Creating a character"
 layout: default
 nav_order: 3
 ---
+
 # Creating a character
 
 Creating your first might seem daunting, but worry not - this is a guide accessible for complete beginners, and will cover all parts of the character creation process on Agnai, and every field in the character card. After going through it, you should have a basic idea of how character creation works, and learn enough about the process to feel comfortable enough to start.
@@ -25,7 +26,7 @@ All fields are optional. There isn't any "magic" going behind the scenes to make
 
 **Scenario**: Used to describe the circumstances between you and the character (and others, if you are using group chats). You can override that field or add to it by making [custom scenarios](https://agnai.guide/docs/library/scenarios) in the Library tab, and selecting the scenario in the "Advanced" tab of the character card, so that you can change the scenarios of the conversation without modifying the card. As all fields, it is optional, don't be afraid to skip it if you can't think of a use for it.
 
-**Greeting**: Here, you can design custom first messages which your character can use (add more with the "Add Alternate Greeting" button). If you write multiple of them, you can switch between them manually. Greetings are useful because of the way language models work - they mimic what they see. This is why if you want a specific style of response (for instance, long responses in third person, with speech in quotes and actions in asterisks), greetings and the "sample conversation" field can be effective - you're *showing* the AI how to respond, not *telling* it. But as usual, there is no right/wrong way to do it. You can omit the greeting entirely, supplement it with instructions, or even write your entire character inside the greeting.
+**Greeting**: Here, you can design custom first messages which your character can use (add more with the "Add Alternate Greeting" button). If you write multiple of them, you can switch between them manually. Greetings are useful because of the way language models work - they mimic what they see. This is why if you want a specific style of response (for instance, long responses in third person, with speech in quotes and actions in asterisks), greetings and the "sample conversation" field can be effective - you're _showing_ the AI how to respond, not _telling_ it. But as usual, there is no right/wrong way to do it. You can omit the greeting entirely, supplement it with instructions, or even write your entire character inside the greeting.
 
 An advantage of using greetings is also that they do not take up permanent tokens, so they will not be sent to the AI every single reply. Instead, greetings are treated just as any other message would, so if you have filled up your context limit, the greeting will disappear (be "forgotten") just as an older message would. Reducing your permanent token count helps with response times, lowers costs with pay-per-token services and saves more context space for other things such as history and memory books.
 
@@ -33,7 +34,7 @@ An advantage of using greetings is also that they do not take up permanent token
 
 **Sample Conversation**: Much like "greeting", this section is to show the AI how to speak by example. An example conversation would look something like:
 
-```*character name*: Hi!
+````*character name*: Hi!
 {{user}}: Hello!
 *character name*: How are you today?
 {{user}}:I'm good, thanks!```
@@ -63,18 +64,19 @@ You should generally not mess with Advanced settings if you're just getting star
 
 Here, you can set the settings for images for this character specifically. If you want global image settings, you should go to Settings -> Images. You can find the general instructions to setup both here, since they work similarly.
 
-Firstly, choose a service. If you have a 10 dollar Agnai sub, the Agnaistic image generation is available, with DreamshaperXL Lightning model. If you use that model, use the recommended settings (5 steps, 2 CFG, 1024x1024 image size). You can also use NovelAI if you have a sub. If you are on free tier, then you can use Horde (somewhat slow and unreliable, but free) and Stable Diffusion (need to run it on your own machine in the background with appropriate hardware and connect it to Agnai. On Automatic1111, you can use --api --share arguments to generate a link, and paste it to Agnai)
+Firstly, choose a service. If you have a 10 dollar Agnai sub, the Charluv image generation is available, with DreamshaperXL Lightning model. If you use that model, use the recommended settings (5 steps, 2 CFG, 1024x1024 image size). You can also use NovelAI if you have a sub. If you are on free tier, then you can use Horde (somewhat slow and unreliable, but free) and Stable Diffusion (need to run it on your own machine in the background with appropriate hardware and connect it to Agnai. On Automatic1111, you can use --api --share arguments to generate a link, and paste it to Agnai)
 
 Now let's move onto the specific parameters you can configure.
 
 **Sampling Steps**: Steps in which the image is produced. Roughly, the more the better, but it depends on the sampler. If you use the DPM++ 2M Karras sampler for instance, you don't really need more than 25. With something like Euler a, it would give more benefits. If unsure, leave as-is.
 
-**Image Width/Height**: Depends on whether you use a model based on SD 1.5 or SDXL. For the former, always leave one of width/height at 512, for the latter, 1024. By default, if unsure, use 512x512 or 1024x1024, depending on the model type, and if you want a different aspect ratio, adjust one of the dimensions. Agnaistic image generation is SDXL-based and cannot go beyond 1024x1024.
+**Image Width/Height**: Depends on whether you use a model based on SD 1.5 or SDXL. For the former, always leave one of width/height at 512, for the latter, 1024. By default, if unsure, use 512x512 or 1024x1024, depending on the model type, and if you want a different aspect ratio, adjust one of the dimensions. Charluv image generation is SDXL-based and cannot go beyond 1024x1024.
 
-**CFG Scale**: (for Agnaistic image generation, use 2) It's how closely the image matches the prompt. As a default for non-Agnaistic, you can use around 7. Lower values might produce higher quality results but will stick to the prompt less, and higher values will do the opposite.
+**CFG Scale**: (for Charluv image generation, use 2) It's how closely the image matches the prompt. As a default for non-Charluv, you can use around 7. Lower values might produce higher quality results but will stick to the prompt less, and higher values will do the opposite.
 
 **Prompt Prefix/Suffix**: For adding stuff to the beginning/end of the prompt sent to the AI. Typically for prefix you want quality tags (best quality, masterpiece...) and for suffix, specific style tags (anime, realistic, full body).
 
 **Negative Prompt**: For stuff you do not want in your image. e.g. bad quality, blurry, signature
 
 **Summary Prompt**: Prompt sent to the language model to create a summary for your image. I'd recommend using one which outputs tags, if you use it (you can turn it off with the toggle below), because Stable Diffusion works better with those, looking for keywords, and not necessarily understanding full sentences well.
+````
